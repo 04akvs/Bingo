@@ -1,2 +1,4 @@
 # Bingo
-My First Project 
+A matrix game designed in C++.
+
+
